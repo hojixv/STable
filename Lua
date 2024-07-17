@@ -1,14 +1,16 @@
+--[[ This is Simple Bind Table, I fully Recommend u To use normal With 100+ Features.
+
+discord.gg/bindlua
+
+--]]
+
 script_key="LbShQGgBmQyCXyuUgaKylKXEqYZbMkdN";
 getgenv().script_key = script_key;
 
 getgenv().Intro = {
     ["IntroBlur"] = true,
 }
---[[ This is Simple Bind Table, I fully Recommend u To use normal With 100+ Features.
 
-discord.gg/bindlua
-
---]]
 getgenv().Watermark = {
     ["Enable"] = true,
 }
