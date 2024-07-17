@@ -4,7 +4,7 @@ discord.gg/bindlua
 
 --]]
 
-script_key="LbShQGgBmQyCXyuUgaKylKXEqYZbMkdN";
+script_key="Key";
 getgenv().script_key = script_key;
 
 getgenv().Intro = {
